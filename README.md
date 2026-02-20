@@ -47,9 +47,9 @@ curl -o SKILL.md https://raw.githubusercontent.com/Flotapponnier/Crypto-date-ope
 
 ### 2. Get API Key
 
-1. Go to [admin.mobula.fi](https://admin.mobula.fi)
+1. Go to [mobula.io](https://mobula.io)
 2. Sign up (free tier: 100 requests/min)
-3. Copy API key
+3. Copy API key from dashboard
 
 ### 3. Configure Environment
 
@@ -252,7 +252,7 @@ Ready-to-use heartbeat templates in [`examples/`](./examples):
 ## Rate Limits
 
 - **Free tier:** 100 requests/minute (sufficient for most users)
-- **Pro tier:** Higher limits at [admin.mobula.fi](https://admin.mobula.fi)
+- **Pro tier:** Higher limits at [mobula.io](https://mobula.io)
 
 **Optimization tips:**
 - Use `/market/multi-data` for batch queries (1 request for 500 tokens vs 500 separate)
@@ -293,8 +293,8 @@ See full guide: **[docs/TROUBLESHOOTING.md](./docs/TROUBLESHOOTING.md)**
 
 ## Resources
 
-- **Mobula API Docs:** [docs.mobula.io](https://docs.mobula.io)
-- **Get API Key:** [admin.mobula.fi](https://admin.mobula.fi)
+- **Mobula Website:** [mobula.io](https://mobula.io)
+- **API Documentation:** [docs.mobula.io](https://docs.mobula.io)
 - **OpenClaw Docs:** [openclaw.ai](https://openclaw.ai)
 - **Supported Chains:** [docs.mobula.io/blockchains](https://docs.mobula.io/blockchains)
 

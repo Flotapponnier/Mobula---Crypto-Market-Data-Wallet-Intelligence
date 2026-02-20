@@ -306,7 +306,7 @@ Authorization: ${MOBULA_API_KEY}
 The user must set their API key in the environment variable `MOBULA_API_KEY`.
 
 If the key is not set or requests fail with 401/403:
-1. Prompt the user to get a free API key at: **https://admin.mobula.fi**
+1. Prompt the user to get a free API key at: **https://mobula.io**
 2. Instruct them to add it to their environment:
    ```bash
    export MOBULA_API_KEY="your_key_here"
@@ -467,9 +467,9 @@ Say: "Price $0.003 (down 8% 24h, down 65% from ATH of $0.089 on Dec 1st, but up 
 ## Error Handling
 
 ### API Key Issues
-- **No key set:** "I need a Mobula API key to fetch crypto data. Get one free at https://admin.mobula.fi then add it to your environment with `export MOBULA_API_KEY='your_key'`"
-- **Invalid key:** "Your API key seems invalid. Please check it at https://admin.mobula.fi"
-- **Rate limited:** "You've hit the API rate limit. Upgrade your plan at https://admin.mobula.fi for higher limits, or I'll retry in a few minutes."
+- **No key set:** "I need a Mobula API key to fetch crypto data. Get one free at https://mobula.io then add it to your environment with `export MOBULA_API_KEY='your_key'`"
+- **Invalid key:** "Your API key seems invalid. Please check it at https://mobula.io"
+- **Rate limited:** "You've hit the API rate limit. Upgrade your plan at https://mobula.io for higher limits, or I'll retry in a few minutes."
 
 ### Token Not Found
 - "I couldn't find that token by name. Could you provide the contract address? Or check the spelling?"
@@ -507,7 +507,7 @@ Full list: https://docs.mobula.io/blockchains
 
 ## Resources
 
-- **Mobula Dashboard:** https://admin.mobula.fi
+- **Mobula Website:** https://mobula.io
 - **API Documentation:** https://docs.mobula.io
 - **Skill Repository:** https://github.com/Flotapponnier/Crypto-date-openclaw
 - **Support:** Open an issue on GitHub or visit Mobula Discord

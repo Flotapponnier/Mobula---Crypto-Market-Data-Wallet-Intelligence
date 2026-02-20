@@ -94,7 +94,7 @@ Common issues and solutions for the Mobula OpenClaw skill.
    ```
 
 2. Verify the key is valid:
-   - Log in to [admin.mobula.fi](https://admin.mobula.fi)
+   - Log in to [mobula.io](https://mobula.io)
    - Check API Keys section
    - Regenerate if needed
 
@@ -119,7 +119,7 @@ Common issues and solutions for the Mobula OpenClaw skill.
 
 **Solution:**
 
-1. Check your plan at [admin.mobula.fi](https://admin.mobula.fi)
+1. Check your plan at [mobula.io](https://mobula.io)
 2. Verify the endpoint is available on your plan
 3. Contact Mobula support if you believe this is an error
 
@@ -135,7 +135,7 @@ Common issues and solutions for the Mobula OpenClaw skill.
 - Don't commit `.zshrc` or `.bashrc` to git
 - Don't share logs publicly without checking for keys
 - Rotate your key if it was exposed:
-  1. Generate new key at [admin.mobula.fi](https://admin.mobula.fi)
+  1. Generate new key at [mobula.io](https://mobula.io)
   2. Update environment variable
   3. Delete old key
 
@@ -233,7 +233,7 @@ Common issues and solutions for the Mobula OpenClaw skill.
    - Reduce the number of wallets, tokens, or whales you're tracking
 
 4. **Upgrade your plan:**
-   - Go to [admin.mobula.fi](https://admin.mobula.fi)
+   - Go to [mobula.io](https://mobula.io)
    - Upgrade for higher rate limits
 
 5. **Cache aggressively:**

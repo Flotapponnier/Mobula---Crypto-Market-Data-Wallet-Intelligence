@@ -26,14 +26,14 @@ Before you begin, make sure you have:
 
 ### 1.1 Sign Up
 
-1. Go to [admin.mobula.fi](https://admin.mobula.fi)
+1. Go to [mobula.io](https://mobula.io)
 2. Click "Sign Up" or "Get Started"
 3. Complete registration (email + password)
 4. Verify your email
 
 ### 1.2 Get API Key
 
-1. Log in to [admin.mobula.fi](https://admin.mobula.fi)
+1. Log in to [mobula.io](https://mobula.io)
 2. Navigate to "API Keys" (usually in dashboard or settings)
 3. Click "Create New API Key" or copy your existing key
 4. **Save this key** - you'll need it in the next step
@@ -326,7 +326,7 @@ Edit each to customize for your needs.
 - Reduce heartbeat frequency (e.g., 60min instead of 30min)
 - Monitor fewer wallets/tokens
 - Use batch endpoints (`/market/multi-data`) instead of individual calls
-- Consider upgrading your Mobula plan at [admin.mobula.fi](https://admin.mobula.fi)
+- Consider upgrading your Mobula plan at [mobula.io](https://mobula.io)
 
 ---
 
