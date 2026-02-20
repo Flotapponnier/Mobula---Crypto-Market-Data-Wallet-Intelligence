@@ -3,24 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue.svg)](https://openclaw.ai)
 
-Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains. Oracle-grade pricing trusted by Chainlink, Supra, and API3.
+Connect your OpenClaw agent to the fastest multi-chain crypto data aggregator. Track portfolios, monitor whales, discover tokens autonomously, and get intelligent alerts across 88+ blockchains in real-time.
 
----
+**What is Mobula?** The fastest and most accurate crypto data aggregator. Aggregates DEX and CEX data across 88+ chains with WebSocket support, sub-second latency, and oracle-grade pricing trusted by Chainlink, Supra, and API3. Powers 200M+ token coverage with real-time updates.
 
-## Overview
+**What you can build:** 24/7 portfolio guardians that alert on concentration risks. Whale trackers that detect coordinated accumulation. Token scouts that autonomously discover gems matching your criteria. Smart alerts with multi-condition logic (price + volume + on-chain activity). All running proactively via OpenClaw's heartbeat system.
 
-OpenClaw skill that connects your AI agent to Mobula's crypto data API covering 88+ blockchains and 200M+ tokens.
-
-**Key Features:**
-- Real-time prices, volume, market cap for any token
-- Portfolio tracking across all chains
-- Whale wallet monitoring
-- Autonomous token discovery
-- Historical data and trend analysis
-- Live DEX trade feeds
-- Smart alerts with context
-
-**What makes this different:** OpenClaw agents run 24/7 with a heartbeat system. Your agent proactively monitors and alerts you on Telegram/WhatsApp/Discord without prompting.
+**Why this matters:** Unlike ChatGPT/Claude chat, your OpenClaw agent runs continuously. It monitors, analyzes, and alerts you on Telegram/WhatsApp/Discord without prompting. Set conditions once, let it work 24/7.
 
 ---
 
@@ -282,12 +271,25 @@ See full guide: **[docs/TROUBLESHOOTING.md](./docs/TROUBLESHOOTING.md)**
 
 ---
 
-## Contributing
+## Feedback & Roadmap
 
+This is v1.0 - we want your feedback.
+
+**Tell us what you need:**
 - [Report bugs](https://github.com/Flotapponnier/Crypto-date-openclaw/issues)
 - [Request features](https://github.com/Flotapponnier/Crypto-date-openclaw/issues/new?template=feature_request.md)
 - [Submit PRs](https://github.com/Flotapponnier/Crypto-date-openclaw/pulls)
 - Share your heartbeat templates
+
+**If this skill adds value, we're ready to ship more:**
+- WebSocket streaming for instant alerts (no 30min heartbeat delay)
+- NFT portfolio tracking and floor price monitoring
+- DeFi position tracking (LP, lending, staking across protocols)
+- On-chain contract verification and security scoring
+- Custom webhook integrations
+- Advanced pattern detection (smart money clusters, narrative tracking)
+
+Let us know what matters most. [Open an issue](https://github.com/Flotapponnier/Crypto-date-openclaw/issues/new?template=feature_request.md) or reach out on [Mobula Discord](https://discord.gg/mobula).
 
 ---
 
